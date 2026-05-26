@@ -51,8 +51,8 @@ int main() {
 }
 ~~~
 ## Output:
+<img width="1489" height="903" alt="image" src="https://github.com/user-attachments/assets/52d8efb0-848c-439e-badc-0d79ddcb288e" />
 
-![image](https://github.com/user-attachments/assets/e080bb6f-79f9-4984-86f9-bedf76c37f66)
 
 ## Result:
 The program is executed successfully
