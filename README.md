@@ -52,6 +52,7 @@ int main() {
 ~~~
 ## Output:
 
+![image](https://github.com/user-attachments/assets/e080bb6f-79f9-4984-86f9-bedf76c37f66)
 
 ## Result:
 The program is executed successfully
